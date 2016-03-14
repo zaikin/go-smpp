@@ -19,8 +19,8 @@ import (
 
 	"github.com/codegangsta/cli"
 
-	"github.com/fiorix/go-smpp/smpp"
-	"github.com/fiorix/go-smpp/smpp/pdu/pdutext"
+	"github.com/zaikin/go-smpp/smpp"
+	"github.com/zaikin/go-smpp/smpp/pdu/pdutext"
 )
 
 // Version of smppcli.

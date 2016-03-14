@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/fiorix/go-smpp/smpp/pdu/pdutext"
+	"github.com/zaikin/go-smpp/smpp/pdu/pdutext"
 )
 
 // List is a list of PDU fields.

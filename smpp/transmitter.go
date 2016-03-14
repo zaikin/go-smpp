@@ -12,9 +12,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fiorix/go-smpp/smpp/pdu"
-	"github.com/fiorix/go-smpp/smpp/pdu/pdufield"
-	"github.com/fiorix/go-smpp/smpp/pdu/pdutext"
+	"github.com/zaikin/go-smpp/smpp/pdu"
+	"github.com/zaikin/go-smpp/smpp/pdu/pdufield"
+	"github.com/zaikin/go-smpp/smpp/pdu/pdutext"
 )
 
 // Transmitter implements an SMPP client transmitter.
